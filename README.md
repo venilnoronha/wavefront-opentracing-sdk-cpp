@@ -1,1 +1,1 @@
-# wavefront-opentracing-sdk-cpp
+# Wavefront OpenTracing C++ SDK
